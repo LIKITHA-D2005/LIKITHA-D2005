@@ -18,7 +18,7 @@ Aspiring Data Scientist | Machine Learning • Deep Learning • Generative AI �
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="file:///C:/LIKITHA%20D/likitha_new_ds_resume.pdf">
+<a href="https://github.com/LIKITHA-D2005/LIKITHA-D2005/blob/main/Likitha_Data_Analysis.pdf">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge">
 </a>
 
