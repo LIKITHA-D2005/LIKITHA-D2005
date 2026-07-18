@@ -10,7 +10,7 @@ Aspiring Data Scientist | Machine Learning • Deep Learning • Generative AI �
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="www.linkedin.com/in/likitha-d-8ba8b9302">
+<a href="https://www.linkedin.com/in/likitha-d-8ba8b9302">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
